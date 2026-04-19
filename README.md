@@ -21,7 +21,7 @@ This project solves that by:
 ---
 
 ## 🏗️ Architecture
-
+CSV Data Source → Python (pandas) → SQLAlchemy → PostgreSQL (Docker) → pgAdmin
 ---
 
 ## ⚙️ Technologies Used
